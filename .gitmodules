@@ -1,8 +1,10 @@
+# upstream: https://github.com/ItsDanik/Hybrid_MiSTer
 [submodule "hybrid"]
 	path = hybrid
-	url = https://github.com/ItsDanik/Hybrid_MiSTer.git
+	url = https://github.com/WindyCityJess/Hybrid_MiSTer.git
 	branch = main
+# upstream: https://github.com/ItsDanik/crispy-doom
 [submodule "crispydoom"]
 	path = crispydoom
-	url = https://github.com/ItsDanik/crispy-doom.git
-	branch = mister
+	url = https://github.com/WindyCityJess/crispy-doom.git
+	branch = mister-build
